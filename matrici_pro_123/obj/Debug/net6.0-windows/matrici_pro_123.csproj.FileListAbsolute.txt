@@ -1,0 +1,17 @@
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\bin\Debug\net6.0-windows\matrici_pro_123.exe
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\bin\Debug\net6.0-windows\matrici_pro_123.deps.json
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\bin\Debug\net6.0-windows\matrici_pro_123.runtimeconfig.json
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\bin\Debug\net6.0-windows\matrici_pro_123.dll
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\bin\Debug\net6.0-windows\matrici_pro_123.pdb
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.Form1.resources
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.AssemblyInfo.cs
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.dll
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\refint\matrici_pro_123.dll
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.pdb
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\matrici_pro_123.genruntimeconfig.cache
+C:\Users\sasha\source\repos\matrici_pro_123\matrici_pro_123\obj\Debug\net6.0-windows\ref\matrici_pro_123.dll
